@@ -54,7 +54,8 @@ A complete full-stack food delivery system with authentication, cart, order trac
 
 ### 🧰 **Handyman Service App**
 A platform to connect customers with local handyman services.  
-🔗 Repo: https://github.com/mihindugunarathne/Handyman  
+🔗 Deployed Link: https://fix-frontend.netlify.app
+
 **Tech:** TypeScript, Node.js, Express.js
 
 ---
